@@ -6,6 +6,7 @@
   <body>
 		<?php
 			echo "poo<br>poo<br>";
+			print "poo<br>";
 			echo strlen("bruh");
 			?>
 		<style> h1{font-size:200px}
