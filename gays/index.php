@@ -8,8 +8,8 @@
 			echo "poo<br>poo<br>";
 			print "poo<br>";
 			echo strlen("bruh");
-			?>
-		<style> h1{font-size:200px}
+		?>
+		<style> h1{font-size:400px}
 		</style>
 		<h1>Gay</h1>
 		<script>
